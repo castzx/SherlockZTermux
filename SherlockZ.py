@@ -18,7 +18,6 @@ platforms = [
     "https://steamcommunity.com/id/{}/",
     "https://open.spotify.com/user/{}/",
     "https://www.twitch.tv/{}/",
-    "https://wa.me/{}/",
     "https://vk.com/{}/",
     "https://www.flickr.com/photos/{}/",
     "https://medium.com/@{}/",
