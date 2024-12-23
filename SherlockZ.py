@@ -10,7 +10,7 @@ platforms = [
     "https://www.facebook.com/{}/",
     "https://www.tiktok.com/@{}/",
     "https://www.reddit.com/user/{}/",
-    "https://www.youtube.com/c/{}/",
+    "https://m.youtube.com/@{}/",
     "https://www.pinterest.com/{}/",
     "https://{}.tumblr.com/",
     "https://github.com/{}/",
