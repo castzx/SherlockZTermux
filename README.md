@@ -5,6 +5,6 @@ comandos:
 
 $ git clone https://github.com/castzx/sherlockcastz
 
-$ cd SherlockZ
+$ cd sherlockcastz
 
 $ python SherlockZ.py username123
