@@ -3,7 +3,7 @@ Sherlock é uma ferramenta de osint ética para investigação digital.
 
 comandos:
 
-$ git clone
+$ git clone https://github.com/castzx/sherlockcastz
 
 $ cd SherlockZ
 
